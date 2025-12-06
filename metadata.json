@@ -1,0 +1,5 @@
+{
+  "name": "TaskNote AI",
+  "description": "A unified workspace for tasks and notes, organized by custom lists, featuring AI-powered suggestions and content enhancement using Gemini.",
+  "requestFramePermissions": []
+}

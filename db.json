@@ -1,0 +1,50 @@
+{
+  "lists": [
+    {
+      "id": "default-1",
+      "name": "Personal",
+      "icon": "🏠",
+      "color": "bg-indigo-500",
+      "tasks": [
+        {
+          "id": "t1",
+          "text": "Buy groceries",
+          "completed": false,
+          "createdAt": 1715421234000
+        },
+        {
+          "id": "t2",
+          "text": "Walk the dog",
+          "completed": true,
+          "createdAt": 1715411234000
+        }
+      ],
+      "notes": [
+        {
+          "id": "n1",
+          "title": "Ideas",
+          "content": "Learn to play guitar. Start with basic chords like G, C, and D.",
+          "createdAt": 1715421234000,
+          "updatedAt": 1715421234000
+        }
+      ],
+      "createdAt": 1715421234000
+    },
+    {
+      "id": "default-2",
+      "name": "Work",
+      "icon": "🏢",
+      "color": "bg-emerald-500",
+      "tasks": [
+        {
+          "id": "t3",
+          "text": "Prepare presentation",
+          "completed": false,
+          "createdAt": 1715425000000
+        }
+      ],
+      "notes": [],
+      "createdAt": 1715425000000
+    }
+  ]
+}
